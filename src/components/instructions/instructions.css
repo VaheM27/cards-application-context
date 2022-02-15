@@ -1,0 +1,8 @@
+.instructions {
+  grid-column: 2/3;
+  grid-row: 1/3;
+  border: 1px solid;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
